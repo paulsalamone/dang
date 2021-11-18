@@ -1,9 +1,13 @@
 body {
-    background-color: yellow;
+    background-color: red;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
     font-size: 65px;
-    border-bottom: 2px black solid;
+    border-bottom: 2px white solid;
+}
+
+h2 {
+    font-size: 45px;
 }
