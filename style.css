@@ -1,0 +1,9 @@
+body {
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 65px;
+    border-bottom: 2px black solid;
+}
